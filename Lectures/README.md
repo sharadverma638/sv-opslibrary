@@ -6,8 +6,8 @@ What is DevOps? ➯ [Watch](https://youtu.be/h7LDnVsNRVI)
 
 | # | Topic | Lecture | Notes |
 |---|---|---|---|
-| 1 | Linux | [Watch Lecture](https://youtu.be/e01GGTKmtpc) | [View](Notes/Linux-for-DevOps-Notes.pdf)
-| 2 | Shell Scripting | [Watch Lecture](https://youtu.be/9Xl1ZTk3BQw) | [View](Notes/Linux-for-DevOps-Notes.pdf)
+| 1 | Linux | [Watch Lecture](https://youtu.be/e01GGTKmtpc) | [View](../Notes/Linux-for-DevOps-Notes.pdf)
+| 2 | Shell Scripting | [Watch Lecture](https://youtu.be/9Xl1ZTk3BQw) | [View](../Notes/Linux-for-DevOps-Notes.pdf)
 | 3 | Networking & System Design | [Watch Lecture](https://youtu.be/xN3BKHji12I) |
 | 4 | Git & GitHub | [Watch Lecture](https://youtu.be/AB3J8ufDYHQ) |
 | 5 | Docker | [Watch Lecture](https://youtu.be/9bSbNNH4Nqw) |
