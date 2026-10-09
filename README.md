@@ -12,6 +12,7 @@ This repository organizes video tutorials, PDFs, articles, and notes from across
 
 1. [Automation Scripts](https://github.com/sharadverma638/sv-opsforge)
 2. [All Cheat Sheet at on place](https://opslibrary.vercel.app/)
+3. [My 90DaysOfDevOps Notes](https://github.com/sharadverma638/90DaysOfDevOps)
 
 ---
 
