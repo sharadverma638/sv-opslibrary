@@ -1,0 +1,53 @@
+name: "📋 Open an Issue"
+description: Report a broken link, suggest a content update, or request a new resource
+title: "[Issue]: "
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of issue
+      description: Pick the one that fits best. Add the matching label after submitting.
+      options:
+        - "🔗 Broken link"
+        - "✏️ Content update"
+        - "💡 Resource request"
+        - "❓ Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Notes
+        - Labs
+        - Lectures
+        - Tutorials
+        - README / Website
+        - Other / New section
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: File, topic, or link
+      placeholder: e.g. Notes/Git-Notes.pdf or https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What's wrong, what should change, or why this should be added
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix or resource (optional)
+    validations:
+      required: false
