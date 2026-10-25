@@ -2,6 +2,7 @@
 
 What is DevOps? ➯ [Watch](https://youtu.be/h7LDnVsNRVI)   
 > **Note:** The lectures are carefully arranged in a recommended sequence and are intended to be followed as a learning roadmap. For the best learning experience, watch them in order, one by one. These resources have been selected for their clear, simple, and easy-to-understand explanations in Hindi and are among the best available learning resources on the internet.
+
 ---
 
 | # | Topic | Lecture | Notes |
@@ -11,6 +12,14 @@ What is DevOps? ➯ [Watch](https://youtu.be/h7LDnVsNRVI)
 | 3 | Networking & System Design | [Watch Lecture](https://youtu.be/xN3BKHji12I) | [View](../Notes/Networking-Notes.pdf) , [View](../Notes/System-Design-Notes.pdf) |
 | 4 | Git & GitHub | [Watch Lecture](https://youtu.be/AB3J8ufDYHQ) | [View](../Notes/Git-Notes.pdf) , [View](../Notes/GitHub-Notes.pdf) |
 | 5 | Docker | [Watch Lecture](https://youtu.be/9bSbNNH4Nqw) | [View](../Notes/Docker-Notes.pdf) |
+
+---
+
+| # | Topic | Lecture | Notes |
+|---|---|---|---|
+| 6 | CI/CD Pipelines | - | - |
+| 7 | Kubernetes | [Watch Lecture](https://youtu.be/W04brGNgxN4) | - |
+|  |  |  |  |
 
 ---
 
