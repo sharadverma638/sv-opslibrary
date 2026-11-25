@@ -39,4 +39,4 @@ If you find this resource library helpful, consider giving it a ★ - it helps o
 
 ---
 
-*Let's Connect: https://sharadverma.carrd.co/*
+*Let's Connect: https://sharadverma.vercel.app/links*
